@@ -1,0 +1,19 @@
+{
+	"name": "next-react-tailwind-blog",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"scripts": {
+		"dev": "next",
+		"build": "next build",
+		"start": "next start"
+	},
+	"dependencies": {
+		"@fullhuman/postcss-purgecss": "^2.1.2",
+		"autoprefixer": "^9.7.6",
+		"next": "^9.3.4",
+		"react": "^16.13.1",
+		"react-dom": "^16.13.1",
+		"tailwindcss": "^1.2.0"
+	}
+}
